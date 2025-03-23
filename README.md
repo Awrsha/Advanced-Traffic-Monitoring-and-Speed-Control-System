@@ -4,8 +4,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-Appache-green)
 
-<img src="https://img.icons8.com/color/96/000000/speed.png" align="right" width="15%"/>
-
 A state-of-the-art intelligent traffic monitoring system combining computer vision, deep learning, and IoT technologies for real-time vehicle detection, speed measurement, and traffic violation enforcement.
 
 ## 🌟 Features
